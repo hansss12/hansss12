@@ -20,7 +20,7 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Power BI" width="30px" src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
