@@ -2,7 +2,6 @@
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Software Developer
-- 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: raihan.aqil2003@gmail.com
 
@@ -11,18 +10,17 @@
 #### 1. [Hacktiv8 Indonesia](https://www.hacktiv8.com/) | FullStack JavaScript | Jakarta `Jan 2023 - May 2023`
    - I have Mastery JavaScript 
    - React, Vue, for web based application && React native for IOS and android application || Front-End
-   - Express, SQL, NoSQL, MongoDB, JSON Web Token(JWT), PostgreSQL || Back End
+   - Node JS, Express, SQL, NoSQL, MongoDB, JSON Web Token(JWT), PostgreSQL || Back End
  #### 2. [SMA N 1 Soreang](https://smanegeri1soreang.sch.id/) | IPS | Bandung `Jun 2019 - Jun 2021`
    - Social Science
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Power BI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
