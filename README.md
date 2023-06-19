@@ -14,7 +14,6 @@
    - Express, SQL, NoSQL, MongoDB, JSON Web Token(JWT), PostgreSQL || Back End
  #### 2. [SMA N 1 Soreang](https://smanegeri1soreang.sch.id/) | IPS | Bandung `Jun 2019 - Jun 2021`
    - Social Science
----s
 
 ### Languages and Tools:
 
