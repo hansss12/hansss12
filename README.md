@@ -1,4 +1,4 @@
-# Hi there, I'm Hanss - aka [Raihan aqil fadillah](https://personal-portfolio-hans.web.app/) 👋 ![codewars](https://www.codewars.com/users/hansss12/badges/large)
+# Hi there, I'm Hanss - aka [Raihan aqil fadillah](https://personal-portfolio-hans.web.app/) 👋 ![codewars](https://www.codewars.com/users/hansss12/badges/micro)
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Software Developer
