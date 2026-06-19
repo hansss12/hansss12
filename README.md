@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raihan-aqil-fadillah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://personal-portfolio-hans.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-raihan-aqil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:raihan.aqil2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/hansss12"><img src="https://www.codewars.com/users/hansss12/badges/micro" /></a>
 </p>
@@ -87,10 +87,10 @@ I'm a Full-Stack Developer with hands-on experience shipping production apps acr
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| **[E-Monitoring KAI](https://personal-portfolio-hans.vercel.app/projects/kai-monitoring)** | Real-time operational monitoring platform for PT. Kereta Api Indonesia | React, Flutter, TypeScript, REST API | 🟢 Live |
-| **[Seeds — Social Investment](https://personal-portfolio-hans.vercel.app/projects/seeds-social)** | Social media & investment features for Seeds fintech super-app | React, React Native, Redux Toolkit, Apollo Client | 🟢 Live |
-| **[Boilerplate Generator](https://personal-portfolio-hans.vercel.app/generator)** | Generates production-ready project starters — 11 stacks × 6 use-cases | Next.js 16, TypeScript, JSZip, Framer Motion | 🟢 Live |
-| **[Printhink.id — Citra Mandiri](https://personal-portfolio-hans.vercel.app/projects/citra-ecommerce)** | E-commerce & company profile websites for enterprise clients | Node.js, Tailwind CSS, Vanilla JS | 🚧 WIP |
+| **[E-Monitoring KAI](https://portfolio-raihan-aqil.vercel.app/projects/kai-monitoring)** | Real-time operational monitoring platform for PT. Kereta Api Indonesia | React, Flutter, TypeScript, REST API | 🟢 Live |
+| **[Seeds — Social Investment](https://portfolio-raihan-aqil.vercel.app/projects/seeds-social)** | Social media & investment features for Seeds fintech super-app | React, React Native, Redux Toolkit, Apollo Client | 🟢 Live |
+| **[Boilerplate Generator](https://portfolio-raihan-aqil.vercel.app/generator)** | Generates production-ready project starters — 11 stacks × 6 use-cases | Next.js 16, TypeScript, JSZip, Framer Motion | 🟢 Live |
+| **[Printhink.id — Citra Mandiri](https://portfolio-raihan-aqil.vercel.app/projects/citra-ecommerce)** | E-commerce & company profile websites for enterprise clients | Node.js, Tailwind CSS, Vanilla JS | 🚧 WIP |
 
 ---
 
